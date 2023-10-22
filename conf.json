@@ -1,0 +1,15 @@
+{
+    "database_access": {
+        "user": "your_username",
+        "password": "your_password",
+        "database_name": "db_name",
+        "host": "127.0.0.1",
+        "port" : "5432"
+    },
+  "api_access": {
+        "base_url" : "enter_api_url",
+        "Authorization" : "enter_your_token",
+        "records_per_page" : 1000
+
+  }
+}
